@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afebu
 - 👀 I’m interested in microsoft Azure, AWS, Google Cloud
-- 🌱 I’m currently learning GCP,Azure.
+- 🌱 I’m currently learning GCP,Azure,AWS.
 - 💞️ I’m looking to collaborate on all cloud computing topics
 - 📫 How to reach me akieafebu@outlook.com
 
